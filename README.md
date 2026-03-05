@@ -1,14 +1,25 @@
+# College Website
 
-<h1> College-Website </h1>
+A responsive educational institution website interface built with HTML and CSS.
 
-I've independently designed and coded a responsive college website, and it's ready to explore!
+## 🚀 Tech Stack
+- HTML
+- CSS
 
-🔸 Project Name: College Web Site
+## 🔐 Features
+- University information sections
+- Program showcase
+- Responsive layout design
 
-🔸 Technologies Used: HTML, CSS
+## 🧠 Architecture & Focus
+- Education themed UI design
+- Responsive layout structure
+- Clean page hierarchy
 
-🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers.
-
-<h2>Screen_Shoot</h2>
-
+## 📷 Demo
 ![](screen_college_website.gif)
+
+## 💡 Future Improvements
+- Student portal
+- Admission form
+- Course filtering
